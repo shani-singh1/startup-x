@@ -28,12 +28,5 @@ Say goodbye to random connections! Our groundbreaking AI technology ensures you 
    npm start  # or yarn start
    ```
 
-## 📷 How to Add an Image in GitHub README
-1. Place the image inside your repository (e.g., `assets/screenshot.png`).
-2. Reference it in the README using Markdown:
-   ```markdown
-   ![Description](assets/screenshot.png)
-   ```
-
 ---
 💡 **Join us in revolutionizing networking!** Start making meaningful connections today. 🔗
